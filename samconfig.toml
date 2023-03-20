@@ -1,4 +1,1 @@
 version=0.1
-[default.build.parameters]
-build_image = ["al2-graalvm:maven"]
-use_container = true
